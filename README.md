@@ -22,6 +22,37 @@ contextually relevant text based on a given prompt.
 
 ---
 
+## 📸 Output Screenshots
+
+### Method 1 — Greedy Search
+![Output 1](output%201.jpg)
+
+### Method 2 — Beam Search
+![Output 2](output2.jpg)
+
+### Method 3 — Top-K Sampling
+![Output 3](output3.jpg)
+
+### Method 4 — Top-P Sampling
+![Output 4](output4.jpg)
+
+### Method 5 — Combined Strategy
+![Output 5](output5.jpg)
+
+### Pipeline — 3 Sequences
+![Output 6](output6.jpg)
+
+### Fine-Tuning Training
+![Output 7](output7.jpg)
+
+### Fine-Tuned Model Output
+![Output 8](output8.jpg)
+
+### Complete Output
+![Output 9](output9.jpg)
+
+---
+
 ## 📊 Results
 
 | Method | Output Style |
