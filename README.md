@@ -80,4 +80,4 @@ contextually relevant text based on a given prompt.
 ---
 
 ## 👤 Author
-Karthika 
+S.Karthika 
