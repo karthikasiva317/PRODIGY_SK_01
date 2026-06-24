@@ -1,4 +1,4 @@
-# 🤖 PRODIGY_SK_01 — Text Generation with GPT-2
+# 🤖 PRODIGY_GA_01 — Text Generation with GPT-2
 ### Prodigy Infotech — Generative AI Internship | Task-01
 
 ---
@@ -73,12 +73,11 @@ contextually relevant text based on a given prompt.
 - Google Colab (T4 GPU)
 
 ---
-
-## 📎 References
-- [HuggingFace Blog](https://huggingface.co/blog/how-to-generate)
-- [Reference Notebook](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD)
-
+## Internship details
+- Company:Prodigy Info Tech
+- Track:Generative AI Internship
+- Task:01-Text Generation with GPT-2
 ---
 
 ## 👤 Author
-Karthika — Generative AI Intern @ Prodigy Infotech
+Karthika 
